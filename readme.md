@@ -59,5 +59,3 @@ MIT © [Travis Fischer](https://transitivebullsh.it)
 > This project is not affiliated with OpenAI in any way. It is just a fun, open source side project that uses their API.
 
 If you found this project interesting, please consider [sponsoring me](https://github.com/sponsors/transitive-bullshit) or <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
-
-
